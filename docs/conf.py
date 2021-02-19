@@ -28,6 +28,7 @@ author = 'Guocheng Qian'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    "recommonmark", 
     "sphinx_rtd_theme",
     "sphinx.ext.autosectionlabel",
     "sphinx.ext.autodoc",
