@@ -1,5 +1,7 @@
 :github_url: https://github.com/guochengqian/deep_learning_phd_wiki
 
+.. _use_ibex:
+
 How to use IBEX 
 =================
 
