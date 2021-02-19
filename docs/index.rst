@@ -28,6 +28,7 @@ Deep Learning PhD Wiki also shares other experience in my journey towards a qual
    src/code/learnLinux
    src/code/learnPytorch
    src/code/learnIBEX
+   src/code/work_remote
 
 .. toctree::
    :glob:
